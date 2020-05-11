@@ -1,4 +1,7 @@
 # Edition-du-soir-report
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 L'Édition du Soir est un sous-projet de l'initiative #DataAgainstCovid19
 Pendant plus d'un mois, nous avons recueilli quotidiennement, dans des articles courts postés sur les réseaux sociaux:
@@ -16,3 +19,22 @@ Pendant plus d'un mois, nous avons recueilli quotidiennement, dans des articles 
 Aujourd'hui, cette collection offre une vision synthétique des événements, dans un ordre chronologique, avec des éléments de contexte. Elle nous parait de nature à interesser le grand public ainsi que certains chercheurs. Dans cette optique, **Edition-du-soir-report** met en forme ces informations afin de favoriser leur consultation.
 
 Concrètement, la présentation prend la forme d'un slideshow revealjs, exportable au format pdf et postscript, [hébergé sur github](https://guillaumefe.github.io/edition-du-soir-report).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mtaieb"><img src="https://avatars2.githubusercontent.com/u/3834341?v=4" width="100px;" alt=""/><br /><sub><b>mtaieb</b></sub></a><br /><a href="#content-mtaieb" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
