@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/mtaieb"><img src="https://avatars2.githubusercontent.com/u/3834341?v=4" width="100px;" alt=""/><br /><sub><b>mtaieb</b></sub></a><br /><a href="#content-mtaieb" title="Content">🖋</a></td>
+    <td align="center"><a href="https://sandrineh.github.io/"><img src="https://avatars0.githubusercontent.com/u/15267900?v=4" width="100px;" alt=""/><br /><sub><b>Sandrine</b></sub></a><br /><a href="#eventOrganizing-sandrineh" title="Event Organizing">📋</a> <a href="#projectManagement-sandrineh" title="Project Management">📆</a> <a href="#content-sandrineh" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/abdoulsn"><img src="https://avatars2.githubusercontent.com/u/33933023?v=4" width="100px;" alt=""/><br /><sub><b>Abdoulaye</b></sub></a><br /><a href="#content-abdoulsn" title="Content">🖋</a> <a href="#tool-abdoulsn" title="Tools">🔧</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/commits?author=abdoulsn" title="Tests">⚠️</a></td>
   </tr>
 </table>
