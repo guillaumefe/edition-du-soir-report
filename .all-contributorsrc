@@ -13,6 +13,17 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "abdoulsn",
+      "name": "Abdoulaye",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33933023?v=4",
+      "profile": "https://github.com/abdoulsn",
+      "contributions": [
+        "content",
+        "tool",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
