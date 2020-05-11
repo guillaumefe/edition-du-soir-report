@@ -29,7 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/mtaieb"><img src="https://avatars2.githubusercontent.com/u/3834341?v=4" width="100px;" alt=""/><br /><sub><b>mtaieb</b></sub></a><br /><a href="#content-mtaieb" title="Content">🖋</a> <a href="#ideas-mtaieb" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/mtaieb"><img src="https://avatars2.githubusercontent.com/u/3834341?v=4" width="100px;" alt=""/><br /><sub><b>mtaieb</b></sub></a><br /><a href="#content-mtaieb" title="Content">🖋</a> <a href="#ideas-mtaieb" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-mtaieb" title="Event Organizing">📋</a></td>
   </tr>
 </table>
 
