@@ -1,0 +1,24 @@
+--- 
+data: |
+  Retours à domicile : +2087 ↑
+  Cas confirmés : +3777 →
+  Hospitalisations : +305 ↓
+  En réanimation : +59 ↓
+  Décès à l’hôpital : +597 →
+  Décès en EHPAD ou EMS : +820 ↑
+expert: 
+  link: "https://www.linkedin.com/in/abdoulsn/"
+  name: "Abdoulaye Diallo"
+  title: "Data Scientist"
+team: 
+  - melissa-salucci
+  - mtaieb
+  - guillaumefe
+  - jdesboeufs
+  - Julia Remy
+  - Fred
+text: |
+  À la baisse remarquable du nombre d'#hospitalisations, qui passent de plus de 1000 entrées, à 700 puis 305 aujourd’hui, s’ajoute l’augmentation du nombre de guérisons quotidiennes.
+  En ce qui concerne les entrées en #réanimation, la croissance ralentie aussi (92 hier contre 59 aujourd’hui). Pour autant, la situation reste précaire ces dernières 24 heures.
+  Nous espérons dès demain observer une baisse notable du nombre d'hospitalisations, ce qui signifierait moins de cas graves.Point d’ombre au tableau : le nombre de décès en #EHPAD a fortement augmenté depuis hier (+228 hier contre +820), mais la progression semble, là aussi, ralentir.
+  Le ministre des Solidarités et de la Santé, Olivier Véran, l’a rappelé aujourd’hui : la pression décroissante sur les #hôpitaux ne doit pas nous faire oublier que le #pic national n’est pas atteint. Cela malgré l’effort que chacun d’entre nous fournit, face au #confinement. Pour que ces efforts payent, restons confinés.
