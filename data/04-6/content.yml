@@ -1,0 +1,22 @@
+--- 
+data: |
+  Retours à domicile : +1067 ↑
+  Cas confirmés : +3912 ↑
+  Hospitalisations : +831 ↑
+  En réanimation : +94 ↓
+  Décès à l'hôpital : +605 ↑
+  Décès en EHPAD ou EMS : +228 ↑
+expert: 
+  link: "https://www.linkedin.com/in/jerome-hugueny/"
+  name: "Jerome Hugueny"
+  title: "Data Scientist"
+team: 
+  - melissa-salucci
+  - mtaieb
+  - guillaumefe
+  - jdesboeufs
+text: |
+    La tendance se confirme ! En France, le nombre de retours à domicile augmente et celui des hospitalisations décroît tandis que les passage aux urgences et les hospitalisations diminuent.
+    Bonne nouvelle : dans le Grand Est et en Île de France, 2 régions durement touchées, le pic s'est produit le 26 et 27 mars. Toutefois, à cause du délai de guérison des malades, le pic des décès et le pic du nombre de personnes hospitalisées sont, eux, encore devant. Un phénomène aggravé par des dynamiques locales, comme dans les Haut de France et l'Occitanie.
+    Il est nécessaire de ne pas relâcher le confinement, alors que l'immunité acquise s'avère faible dans certaines régions (Nouvelle Aquitaine, Occitanie).
+    Reste un besoin urgent, auquel seul l'Insee peut répondre. Nous demandons que le fichier détaillé des décès (l'Etat civil) soit publié de manière hebdomadaire, condition indispensable pour analyser la surmortalité réelle.
