@@ -1,0 +1,22 @@
+--- 
+data: |
+    Retours à domicile : +745 ↓
+    Cas confirmés : +1873 ↓
+    Hospitalisations : +748 →
+    En réanimation : + 140 ↓ 
+    Décès à l'hôpital : +357 ↓ 
+    Décès en EHPAD ou EMS : +161 ↓
+expert: 
+  link: "https://www.linkedin.com/in/alexandre-payot/"
+  name: "Alexandre Payot"
+  title: "Data Scientist"
+team: 
+  - melissa-salucci
+  - mtaieb
+  - guillaumefe
+  - jdesboeufs
+  - tiphaine
+text: |
+    Au cours des deux derniers jours, l’ampleur de la tragédie causée par l’épidémie de Covid19 dans les EHPAD et les EMS a dominé les chiffres.
+    Bien que les variations journalières se révèlent irrégulières, un ralentissement de l’épidémie semble se faire jour.
+    Le nombre de personnes entrantes à l’hôpital est à 40% de son pic du 1er Avril, et à 31% pour le nombre de lits supplémentaires occupés en réanimation. Trois semaines après le début du confinement, il semble que l’effort de chacun commence à porter ses fruits. La route est encore longue mais ensemble nous pouvons sauver des dizaines de milliers de vies
