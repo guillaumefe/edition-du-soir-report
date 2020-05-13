@@ -48,6 +48,15 @@
         "tool",
         "test"
       ]
+    },
+    {
+      "login": "melissa-salucci",
+      "name": "melissa-salucci",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/60431041?v=4",
+      "profile": "https://melissasalucci.myportfolio.com",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "contributorsPerLine": 7,
