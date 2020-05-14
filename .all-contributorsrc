@@ -17,17 +17,6 @@
         "projectManagement"
       ]
     },
-        {
-      "login": "abdoulsn",
-      "name": "Abdoulaye",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/33933023?v=4",
-      "profile": "https://github.com/abdoulsn",
-      "contributions": [
-        "content",
-        "tool",
-        "test"
-      ]
-    },
     {
       "login": "sandrineh",
       "name": "Sandrine",
@@ -40,13 +29,14 @@
       ]
     },
     {
-      "login": "Mouvoh",
-      "name": "Mouvoh",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/62729599?v=4",
-      "profile": "https://github.com/Mouvoh",
+      "login": "abdoulsn",
+      "name": "Abdoulaye",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33933023?v=4",
+      "profile": "https://github.com/abdoulsn",
       "contributions": [
-        "test",
-        "content"
+        "content",
+        "tool",
+        "test"
       ]
     },
     {
@@ -56,6 +46,16 @@
       "profile": "https://melissasalucci.myportfolio.com",
       "contributions": [
         "eventOrganizing"
+      ]
+    },
+    {
+      "login": "Mouvoh",
+      "name": "Mouvoh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62729599?v=4",
+      "profile": "https://github.com/Mouvoh",
+      "contributions": [
+        "test",
+        "content"
       ]
     }
   ],
