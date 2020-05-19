@@ -1,0 +1,26 @@
+--- 
+data: |
+  Retours à domicile : +2190 ↑
+  Cas confirmés : +2633 ↓
+  Cas confirmés en EHPAD : +1343 ↑
+  Cas possibles en EHPAD : +584 ↑
+  Hospitalisations : -513 ↓
+  En réanimation : -273 ↓
+  Décès à l’hôpital : +514 →
+  Décès en EHPAD ou EMS : +924 ↑
+expert: 
+  link: "https://www.linkedin.com/in/abdoulsn/"
+  name: "Abdoulaye Diallo"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - jdesboeufs
+  - abdoulsn
+text: |
+  Avec 2633 cas confirmés de plus qu'hier (106206 personnes en tout) nous connaissons aujourd'hui une dynamique moitié moins agressive qu'hier.
+  Le nombre de retours domicile continue d'augmenter, avec +2190 retours domicile en 24 heures (merci aux soignants!).
+  Des lits se libèrent de manière significative, et la baisse des réanimations et des hospitalisations semble actée, avec respectivement -273 et -513 places redevenues disponibles en 24h). Voilà bien longtemps que de tels taux n'avaient pas été enregistrés.
+  Le nombre de décès à l’hôpital reste au même stade qu’hier, +514 avec une légère baisse.
+  Du côté des EHPAD le nombre de décès quotidien est stable malgré le chiffre impressionnant de 924 décès qui vient rattraper les 3 jours du weekend de Pâques.
+  La propagation du maladie semble sous contrôle, ce qui ne signifie pas que nous pouvons nous permettre de lâcher prise.
