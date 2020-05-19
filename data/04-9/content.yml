@@ -1,0 +1,21 @@
+--- 
+data: |
+    Retours à domicile : +1952 ↓
+    Cas confirmés : +4286 ↑
+    Hospitalisations : +392 ↑
+    En réanimation : -82 : ↓
+    Décès à l’hôpital : +412 ↓
+    Décès en EHPAD ou EMS : +929 ↑
+expert: 
+  link: "https://www.linkedin.com/in/pheneau/"
+  name: "Tiphaine Phe-Neau"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - jdesboeufs
+text: |
+    C’est l’information du jour : pour la première fois en France depuis le début de l’épidémie, le solde des admissions en #réanimation est négatif. Cet étonnant -82 cas me donne du baume au coeur. 
+    Ce chiffre, qui peut indiquer un plateau, doit pourtant être tempéré, car la baisse dans certaines régions (ex: Nouvelle Aquitaine, Occitanie, PACA) ne masque pas les #hospitalisations qui s’accélèrent en IDF, Centre Val de Loire et Hauts-de-France.
+    Alors que Covid19 continue de progresser à une allure modérée, les indicateurs de #guérison restent stables. Avec même, parfois, un début de ralentissement des décès. Un mieux global, donc, qui repose pourtant sur un équilibre précaire. 
+    Nous commençons à constater de petits effets positifs liés au confinement et au #dévouement des acteurs sociaux. Prenez soin de vous et des autres, respectons les mesures barrières et les règles de confinement, et nous y arriverons.
