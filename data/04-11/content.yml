@@ -1,0 +1,23 @@
+--- 
+data: |
+  Retours à domicile : +1459 ↓
+  Cas confirmés : +3114 ↓
+  Hospitalisations : +53 ↓
+  En réanimation : -121 ↓
+  Décès à l’hôpital : +345 ↓
+  Décès en EHPAD ou EMS : +290 ↓
+expert: 
+  link: "https://www.linkedin.com/in/liorperez/"
+  name: "Lior Perez"
+  title: Expert informatique et IA
+team: 
+  - mtaieb
+  - elenablum26
+  - abdoulsn
+  - jdesboeufs
+  - Julia Remy
+text: |
+  Le nombre d'entrées en hospitalisation baisse à 1857 alors qu'il était à plus de 2500 les cinq derniers jours. En conséquence le nombre total de personnes hospitalisées s'est presque stabilisé avec une augmentation de 53 personnes contre 500 hier. Cependant une baisse ponctuelle de l’indicateur ne permet pas de dégager une tendance.
+  Le nombre de personne en réanimation est en légère baisse (-121) pour la troisième journée consécutive. Une bonne nouvelle pour les hôpitaux d'Ile-de-France et du Grand-Est toujours très chargés.
+  635 décès quotidien, c’est moins que les 987 d'hier ou les 1341 d'avant-hier, mais l’indicateur est bruité : trop tôt pour confirmer une tendance.
+  Pour conclure, si les chiffres sont meilleurs que ces derniers jours, ils sont loin d’être excellents et ne doivent pas occulter le fait que la propagation du COVID-19 ne s’est pas arrêtée. Elle se poursuit sans être exponentielle, ce qui permet au système de santé d’éviter la saturation
