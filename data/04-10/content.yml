@@ -1,0 +1,24 @@
+--- 
+data: |
+    Retours à domicile : +1726 ↓
+    Cas confirmés : +4342 →
+    Hospitalisations : +500 ↑
+    En réanimation : -62 : ↓
+    Décès à l’hôpital : +554 ↑
+    Décès en EHPAD ou EMS : +433 ↓
+expert: 
+  link: "https://www.linkedin.com/in/luc-claustres-ba43672a/"
+  name: "Brian Phrakousonh"
+  title: Enseignant en économie-gestion
+team: 
+  - mtaieb
+  - elenablum26
+  - abdoulsn
+  - jdesboeufs
+  - Julia Remy
+text: |
+  Pour la deuxième journée consécutive en France depuis le début de l’épidémie, le solde des admissions en réanimation est négatif. 
+  Cette bonne nouvelle est cependant à relativiser : elle permet une respiration pour les centres hospitaliers, mais elle s’explique en partie par une augmentation des décès à l’hôpital. 
+  Par ailleurs, l’accélération du nombre de patients hospitalisés par rapport aux jours précédents laisse supposer une occupation de ces 62 lits disponibles dans les jours à venir.
+  Quant aux EHPAD, le nombre de décès annoncé aujourd’hui est en hausse de 433. 
+  Nous pouvons être d’autant plus pessimistes que 400 des 700 Ehpad d’Île-de-France connaissent au moins un cas de Covid-19, et que la probabilité de cas graves est plus importante pour ces populations.
