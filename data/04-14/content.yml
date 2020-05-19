@@ -1,0 +1,23 @@
+--- 
+data: |
+  Retours à domicile : +1087 ↑
+  Cas confirmés : +5497 ↑
+  Cas confirmés en EHPAD : +569 ↑
+  Cas possibles en EHPAD : +458 ↓
+  Hospitalisations : +179 ↓
+  En réanimation : -91 ↓
+  Décès à l’hôpital : +541 ↑
+  Décès en EHPAD ou EMS : +221 ↓
+expert: 
+  link: "https://www.linkedin.com/in/alexis-tuil-899b3384/"
+  name: "Alexis Tuil"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - jdesboeufs
+text: |
+  Ce soir, le nombre de décès à l’hôpital a de nouveau augmenté et revient à son niveau de vendredi. Nous nous trouvons sur un plateau de 460 morts quotidiens, en moyenne, sur les 10 derniers jours. À titre de comparaison, en Italie un plateau équivalent a duré une quinzaine de jours avant de voir le nombre de morts ralentir.
+  Avec près de 5500 personnes, le nombre de cas confirmés est également en forte hausse. Ils augmentent de 50% en 24 heures.
+  En réanimation, les lits continuent de se libérer, 91 aujourd’hui. Par ailleurs, les hospitalisations décélèrent : +179 personnes, contre +287 la veille. Il s’agit de la plus faible augmentation du nombre d'hospitalisations depuis le début du confinement.
+  La propagation du virus est ralentie mais toujours là. Le nombre de décès nous le rappelle aujourd’hui. Il faut continuer les efforts, se protéger avec un masque et rester chez soi.
