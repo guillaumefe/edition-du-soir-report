@@ -1,0 +1,24 @@
+--- 
+data: |
+ Retours à domicile : +532 ↓
+ Cas confirmés : +2673 ↑
+ Cas confirmés en EHPAD : +523
+ Cas possibles en EHPAD : +992
+ Hospitalisations : +287 ↓
+ En réanimation : -24 ↓
+ Décès à l’hôpital : +335 ↑
+ Décès en EHPAD ou EMS : +239 →
+expert: 
+  link: "https://www.linkedin.com/in/michaeljohnhatchi/"
+  name: "Michael John Hatchi"
+  title: Ingénieur Machine Learning
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+  - Julia Remy
+text: |
+  Ce soir, les effets du confinement sont, certes, difficiles à voir mais ils sont là. En témoignent la décélération du nombre d'#hospitalisations (+287 contre une moyenne de +419 cas, lissée sur les 7 jours précédents), l’accroissement de la mobilisation autour d’une meilleure prise en charge mais également l’augmentation du nombre de lits de réanimation ainsi qu'une organisation public-privé qui porte ses fruits : -24 #réanimations qui marquent le 5ème jour consécutif de diminution en la matière.
+  Pour autant le Covid-19 garde son inertie, avec une augmentation du nombre de #décès à l’hôpital (+335 contre +310 hier), amoindrie en EHPAD et EMS alors que +231 (vs +251 hier) de nos aînés nous ont quitté.
+  Tout ceci conduit à la prolongation de la période de confinement jusqu’au 11 mai. D’ici là, persévérons et respectons les règles que nous connaissons maintenant par cœur: distanciation sociale et gestes barrières.
