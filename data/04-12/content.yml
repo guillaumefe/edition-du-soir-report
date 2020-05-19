@@ -1,11 +1,11 @@
 --- 
 data: |
-Retours à domicile : +795 ↓
-Cas confirmés : +1613 ↓
-Hospitalisations : +506 ↑
-En réanimation : -38 ↓
-Décès à l’hôpital : +310 ↓
-Décès en EHPAD ou EMS : +251 ↓
+  Retours à domicile : +795 ↓
+  Cas confirmés : +1613 ↓
+  Hospitalisations : +506 ↑
+  En réanimation : -38 ↓
+  Décès à l’hôpital : +310 ↓
+  Décès en EHPAD ou EMS : +251 ↓
 expert: 
   link: "https://www.linkedin.com/in/lasseri/"
   name: "Raphaël-David Lasseri"
