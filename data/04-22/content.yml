@@ -1,0 +1,24 @@
+--- 
+data: |
+  Retours à domicile : +1476 ↓
+  Cas confirmés : +1827 ↓
+  Cas confirmés en EHPAD : +1845
+  Hospitalisations : -365 ↓
+  En réanimation : -215 ↓
+  Décès à l’hôpital : +336 ↓
+  Décès en EHPAD ou EMS : +208 ↑
+expert: 
+  link: "https://github.com/AlainOttenheimer"
+  name: "Alain Ottenheimer"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+  - Jean-Claude Razafindrakoto
+text: |
+  Le nombre de personnes en #réanimation continue de baisser régulièrement depuis le 8 avril, notamment à Paris. La tendance est néanmoins moins marquée pour certains autres départements où l’on observe une décroissance plus modérée.
+  Même si le nombre total de #décès à l’hôpital continue à décroître, le nombre de personnes en #réanimation reste élevé.
+  En exprimant les résultats en  ‱ (cas pour 10000), il est alors possible de comparer les chiffres d’un département à l’autre. Le grand quart sud-ouest et la côte atlantique apparaissent nettement moins touchés par la pandémie. Ainsi en Haute-Garonne (31) le nombre de décès est de 0,28 ‱ alors qu’il atteint le chiffre de de 9.7‱ et 8.4‱ pour le territoire de Belfort et le Haut-Rhin.
+  L’écart atteint 35 entre des départements les plus extrêmes. C’est une donnée importante qui sera prise en compte dans les scenarii de #déconfinement. Plus de détails sur #Covidoscope: https://cutt.ly/jyyg56t
