@@ -1,0 +1,25 @@
+--- 
+data: |
+  Retours à domicile : +1563 →
+  Cas confirmés : +2569 ↑
+  Cas confirmés en EHPAD : +1891 ↑
+  Cas possibles en EHPAD : +1255 ↓
+  Hospitalisations : -551 ↓
+  En réanimation : -194 ↑
+  Décès à l’hôpital : +364 ↓
+  Décès en EHPAD ou EMS : +278 ↓
+expert: 
+  link: "https://www.linkedin.com/in/damien-jacomy-3b749515/"
+  name: "Damien Jacomy"
+  title: Ingénieur logiciel
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+  - Julia Remy
+text: |
+  Aujourd’hui le nombre de cas confirmés connaît une hausse. Mais la variation journalière est aléatoire. Peut-être parce notre matériau d'étude, c'est le vivant. Or ce dernier a horreur d'être lissé et modélisé. En jeu, c'est sa liberté.
+  Depuis 10 jours le ralentissement des #hospitalisations et des cas de #réanimation se poursuit. Le second point d'inflexion de la sigmoïde serait-il atteint? Un plateau se dessine.
+  Pour autant les chiffres ne disent rien sur la proportion de la population immunisée contre le virus. Cela me préoccupe, car je ne sais si notre système de santé, éprouvé, résistera à une seconde vague.
+  Pour ces hôpitaux, nous travaillons à DataAgainstCovid19, à la réalisation d’un système d’information renouvelé et perfectionné. Politiques, institutions et entreprises de la société civile sauront-ils mettre leurs appétits individuels de coté et permettre à nos #hôpitaux d'être réactifs?
