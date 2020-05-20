@@ -1,0 +1,25 @@
+--- 
+data: |
+  Retours à domicile : +595 ↓
+  Cas confirmés : +785 ↓
+  Cas confirmés en EHPAD : +885 ↓
+  Cas possibles en EHPAD : +316 ↓
+  Hospitalisations : -29 ↓
+  En réanimation : -89 ↓
+  Décès à l’hôpital : +227 ↓
+  Décès en EHPAD ou EMS : +168 ↓
+expert: 
+  link: "#"
+  name: "Cédric"
+  title: 
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+  - Julia Remy
+text: |
+  Le nombre de retours à domicile quotidiens chute aujourd'hui. Bien que plus forte que d'habitude, cette variation ne semble pas inquiétante.
+  En effet la lecture du dashboard conforte les tendances observées cette semaine : une baisse de la surcharge des hôpitaux, plus de patients sortants que d'entrants. C'est le cas dans les services généraux (-29 cas) mais aussi en réanimation (-89 cas) où le nombre reste négatif depuis 11 jours.
+  Du coté des décès, le total national avoisine 20 000 cas et l'accélération s'amenuise. Un plateau apparait, avec environ 400 +/- 100 décès/jour à l’hôpital. La pression s'allège (+227 décès à l’hôpital aujourd'hui) et renoue avec les chiffres du 24 mars dernier. En EHPAD et EMS, l'augmentation incontrôlable se poursuit.
+  Les hospitalisations remontent, sans savoir s’il s'agit d'une fluctuation passagère ou d'une remonté franche. Par ailleurs, le flou autour des tests complique l'analyse du nombre de cas confirmés.
