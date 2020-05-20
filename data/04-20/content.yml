@@ -1,0 +1,24 @@
+--- 
+data: |
+  Retours à domicile : +831 ↑
+  Cas confirmés : +2051 ↑
+  Cas confirmés en EHPAD : +620 ↓
+  Cas possibles en EHPAD : +438 ↑
+  Hospitalisations : -26 ↓
+  En réanimation : -61 ↓
+  Décès à l’hôpital : +444 ↑
+  Décès en EHPAD ou EMS : +103 ↓
+expert: 
+  link: "https://www.linkedin.com/in/jcrazafy/"
+  name: "Jean-Claude Razafindrakoto"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+  - Julia Remy
+text: |
+  Avec plus de 20,000 décès (20,265), une barre symbolique est franchie. Pour leur part, les retours à domicile (37,409 cas, soit +831 par rapport à hier) progressent. D’une façon générale, notre système de #santé montre sa résistance, grâce aux efforts du personnel soignant que nous applaudissons chaque soir.
+  Au niveau des #hospitalisations la tendance est à la baisse (30,584, soit -26 cas d’hospitalisation). En particulier en #réanimation (5,683, soit -61 cas). Cela reste cohérent avec les chiffres du 18/04 : le nombre descendait pour la première fois en dessous de 6,000.
+  Alors que se profile la fin de l'#isolement en #EPHAD et #EMS, les décès (+103 cas du 19/04 au 20/04 contre +168 cas du 18/04 au 19/04) représentent entre 38% et 39% du total national. Toutefois la #courbe s’infléchit (+1% du 19/04 au 20/04 au lieu de +2% du 18/04 au 19/04). Il est vital pour les résidents de renouer avec les #visites.
