@@ -1,0 +1,25 @@
+--- 
+data: |
+ Retours à domicile : +1608 ↓
+ Cas confirmés : +405 ↓
+ Cas confirmés en EHPAD : +1305 ↓
+ Cas possibles en EHPAD : +1504 ↓
+ Hospitalisations : -115 ↑
+ En réanimation : -221 ↓
+ Décès à l’hôpital : +418 →
+ Décès en EHPAD ou EMS : +343 →
+expert: 
+  link: "https://www.linkedin.com/in/davidbessis/"
+  name: "David Bessis"
+  title: Mathématicien
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+  - Julia Remy
+text: |
+  Pour le 9ème jour consécutif la baisse du nombre de personnes en #réanimation se poursuit (-221). Depuis le #pic, ce sont plus de 1000 lits libérés. C’est significatif et c’est une vraie bonne nouvelle.
+  En revanche, les #indicateurs des nouveaux cas et décès sont difficiles à lire. On constate une sorte de #plateau, voire une légère baisse, mais le signal est bruité et fluctue d’un jour sur l’autre.
+  Concernant les nouveaux cas, cela dépend de l’activité de #dépistage, l'avenir est impossible à prédire. Quant aux décès, on s’attendrait à voir bientôt un tassement (suite à la baisse des réanimations) mais il est difficile d’en prédire la vitesse et l’ampleur.
+  Finalement, ce qui me frappe le plus, c’est que nous ne savons pas encore mesurer correctement la dynamique de l’#épidémie. Ni même son étendue réelle. Le #confinement semble contenir la #crise, sans qu’il soit possible de modéliser exactement ce qui se passe.
