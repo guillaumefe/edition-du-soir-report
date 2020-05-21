@@ -1,0 +1,27 @@
+--- 
+data: |
+  Retours à domicile : +610 ↑
+  Cas confirmés : +3764 ↑
+  Cas confirmés en EHPAD : +584 ↑
+  Cas possibles en EHPAD : -22 ↓
+  Hospitalisations : -162 ↓
+  En réanimation : -74 ↓
+  Décès à l’hôpital : +295 ↑
+  Décès en EHPAD ou EMS : +142 ↑
+expert: 
+  link: "#"
+  name: "Guillaume Chaumet"
+  title: Biostatisticien
+team: 
+  - mtaieb
+  - Elena Blum
+  - abdoulsn
+  - jdesboeufs
+  - sandrineh
+  - guillaumefe
+text: |
+  La lente décrue des services de #réanimation semble continuer (-74) et c’est un bon signe pour le personnel des services de réanimations.
+  Le nombre de #décès continue lui aussi à diminuer sur le moyen terme, même si aujourd’hui, il suit son cycle hebdomadaire de hausse (+295 vs +444 le 20 avril). Le nombre à la hausse de retours à domicile suit aussi ce cycle hebdomadaire (+610).
+  Le nombre d’ #hospitalisations reste également stable (-162).
+  En revanche le nombre de cas confirmés augmente beaucoup aujourd’hui (+3764) par rapport au lundi 20 avril (+2051). Ce phénomène d’augmentation devra toujours être regardé à moyen terme, car il peut signifier soit que le nombre de cas augmente, soit que les moyens pour tester sont enfin arrivés.
+  N’oublions jamais de mettre ces nombres (et les nombres que nous récoltons quotidiennement) en perspective.
