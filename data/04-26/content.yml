@@ -1,0 +1,23 @@
+--- 
+data: |
+  Retours à domicile : +309 ↓
+  Cas confirmés : +461 ↓
+  Cas confirmés en EHPAD : +517 ↓
+  Cas possibles en EHPAD : +151 ↑
+  Hospitalisations : -5 ↓
+  En réanimation : -43 ↓
+  Décès à l’hôpital : +152 ↓
+  Décès en EHPAD ou EMS : +90 ↓
+expert: 
+  link: "https://www.linkedin.com/in/manuel-capel-9a9b40134/"
+  name: "Manuel Capel"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+text: |
+  Les réanimations sont en décroissance depuis le début de la semaine partout en France. La courbe poursuit sa décrue entamée depuis la première semaine d’avril à un rythme assez stable. Fait remarquable : cette courbe suit un cycle hebdomadaire, avec une baisse moins forte en début de semaine et plus forte ensuite.
+  Le nombre de personnes hospitalisées n’a baissé que très faiblement aujourd’hui (-5 cas). De son coté, le nombre de décès poursuit sa déflation, avec 152 victimes du Covid19 à déplorer aujourd’hui, contre 198 hier, 305 avant-hier et 311 vendredi. En EHPAD et EMS, les décès diminuent aussi, avec 90 cas aujourd’hui contre 171 hier.
+  La situation générale reste tendue mais s’améliore sensiblement dans les hôpitaux. Ces derniers sont en effet capables d’accueillir davantage de patients souffrants d’autres pathologies. Venant ainsi rattraper les traitements différés au plus fort de la crise.
