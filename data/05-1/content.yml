@@ -1,0 +1,23 @@
+--- 
+data: |
+  Retours à domicile : +736 ↓
+  Cas confirmés : +604 ↓
+  Cas confirmés en EHPAD : +436 ↓
+  Hospitalisations : -396 ↓
+  En réanimation : -141 ↓
+  Décès à l’hôpital : +125 ↓
+  Décès en EHPAD ou EMS : +93 ↓
+expert: 
+  link: "https://www.linkedin.com/in/antoine-biard-02906355/"
+  name: Antoine Biard
+  title: Ingénieur data / Machine Learning
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - guillaumefe
+text: |
+  Pour la deuxième journée consécutive, les indicateurs sont au vert : les #hospitalisations (-396 personnes) diminuent chaque jour depuis 2 semaines et, depuis 24 heures, le nombre de #décès (125) renoue avec la situation du 22 mars (112).
+  Notons que depuis hier, sur la carte d'activité épidémiologique ajoutée au dashboard, la Haute-Corse, le Lot et le Cher quittent la zone rouge. Mais les hôpitaux des régions Nord de France, Île de France et Grand Est sont encore très #saturés.
+  La France termine un premier sprint contre Covid19, mais la course est longue. Reste à savoir si l'exécutif exploitera l'énergie d'une société civile compétente et motivée à améliorer les infrastructures actuelles et faciliter l'entraide entre les régions. Tout en évitant l'apparition d'outils qui seraient en compétition les uns avec les autres. Le choix concernant l'application de traçage numérique à venir donnera le ton.
