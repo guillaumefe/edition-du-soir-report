@@ -43,7 +43,8 @@
       "contributions": [
         "content",
         "tool",
-        "test"
+        "test",
+        "eventOrganizing"
       ]
     }
   ],
