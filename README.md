@@ -1,6 +1,6 @@
 # Edition-du-soir-report
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
@@ -37,6 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://melissasalucci.myportfolio.com"><img src="https://avatars3.githubusercontent.com/u/60431041?v=4" width="100px;" alt=""/><br /><sub><b>melissa-salucci</b></sub></a><br /><a href="#projectManagement-melissa-salucci" title="Project Management">📆</a> <a href="#ideas-melissa-salucci" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/pulls?q=is%3Apr+reviewed-by%3Amelissa-salucci" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Mouvoh"><img src="https://avatars3.githubusercontent.com/u/62729599?v=4" width="100px;" alt=""/><br /><sub><b>mouvoh</b></sub></a><br /><a href="https://github.com/guillaumefe/edition-du-soir-report/commits?author=Mouvoh" title="Tests">⚠️</a> <a href="#content-Mouvoh" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Dowser101"><img src="https://avatars0.githubusercontent.com/u/62883351?v=4" width="100px;" alt=""/><br /><sub><b>Dowser101</b></sub></a><br /><a href="#data-Dowser101" title="Data">🔣</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/pulls?q=is%3Apr+reviewed-by%3ADowser101" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/elenablum26"><img src="https://avatars1.githubusercontent.com/u/65129550?v=4" width="100px;" alt=""/><br /><sub><b>elenablum26</b></sub></a><br /><a href="#eventOrganizing-elenablum26" title="Event Organizing">📋</a></td>
   </tr>
 </table>
 
