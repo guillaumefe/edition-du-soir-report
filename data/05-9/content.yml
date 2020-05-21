@@ -1,0 +1,25 @@
+--- 
+data: |
+  Retours à domicile : +256 ↓
+  Cas confirmés : +433 ↓
+  Cas total en EHPAD : +302 ↓
+  Cas confirmés en EHPAD : +156 ↓
+  Hospitalisations : -110 ↓
+  En réanimation : -56 ↓
+  Décès à l’hôpital : +76 ↓
+  Décès en EHPAD ou EMS : +4 ↓
+expert: 
+  link: "https://www.linkedin.com/in/nathan-desdouits-19b19123/"
+  name: Nathan Desdouits
+  title: Data Scientist
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - guillaumefe
+text: |
+  A moins de 48h du #déconfinement, le nombre d#hospitalisationss et de patients en #réanimation continue de se réduire (-110 et -56 respectivement). 
+  Excellente nouvelle, concernant les #décès en #Ehpad/EMS : seulement 4 cas ont été constatés aujourd'hui. C'est du jamais vu depuis début avril.
+  Forte baisse également pour les décès à l'hôpital (76 personnes contre 111 hier). On espère qu'il ne s'agit pas simplement des baisses habituelles dues au week-end mais que la tendance se prolongera bel et bien. 
+  La baisse des indicateurs et l'assouplissement des règles de confinement ne doivent toutefois pas faire oublier que la maladie reste présente presque partout en France. Il est donc toujours aussi important de respecter les gestes barrières et la distanciation sociale.
