@@ -1,0 +1,26 @@
+--- 
+data: |
+  Retours à domicile : +932 →
+  Cas confirmés : +622 ↑
+  Cas total en EHPAD : +404 ↓
+  Cas confirmés en EHPAD : +216 ↑
+  Hospitalisations : -608 ↓
+  En réanimation : -129 ↓
+  Décès à l’hôpital : +123 ↑
+  Décès en EHPAD ou EMS : +228 ↑
+expert: 
+  link: "https://www.linkedin.com/in/gabin-drouard-8b1310178/"
+  name: Gabin Drouard
+  title: Élève ingénieur statisticien à l'ENSAI
+team: 
+  - mtaieb
+  - sandrineh
+  - jdesboeufs
+  - mouvoh
+  - guillaumefe
+text: |
+  On remarque pour la journée du 14 mai une diminution du nombre d#hospitalisationss et de places occupées en #réanimation.
+  Malgré ces chiffres encourageants, la tendance globale, depuis plusieurs semaines, est à la diminution des hospitalisations en semaine et à la hausse le weekend. Il faut donc s'attendre à ce que ces chiffres remontent dans les prochains jours.
+  En outre, le nombre de cas confirmés augmente chaque jour, une situation en partie due aux récentes politiques publiques visant à tester davantage la population.
+  On dénombre par ailleurs 228 nouveaux #décès dans les #Ehpad. Une telle augmentation n'avait pas été relevée depuis le 18 avril dernier. 
+  En cause: peut-être une erreur de mesure du mercredi 13 reportant une baisse des décès (-15) sur l'ensemble du territoire dans les Ehpad. Cette erreur a probablement été absorbé dans les données d'aujourd'hui.
