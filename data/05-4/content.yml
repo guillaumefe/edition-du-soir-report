@@ -1,0 +1,24 @@
+--- 
+data: |
+  Retours à domicile : +587 ↑
+  Cas confirmés : +576 ↑
+  Cas total en EHPAD : +623 ↑
+  Cas confirmés en EHPAD : +430 ↑
+  Hospitalisations : -267 ↓
+  En réanimation : -123 ↓
+  Décès à l’hôpital : +243 ↑
+  Décès en EHPAD ou EMS : +63 ↑
+expert: 
+  link: "https://www.linkedin.com/in/val%C3%A9rie-mauduit-a0786047/"
+  name: Valérie Mauduit
+  title: Data Scientist
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - guillaumefe
+text: |
+  Nous constatons aujourd’hui un effet fin de #weekend. On recense plus de retours à domicile, mais aussi plus de nouveaux cas confirmés qu’hier. Malgré tout, nous poursuivons la décroissance linéaire des #hospitalisations entamée le 14 avril. Cette tendance correspond à 345 hospitalisations de moins par jour, dues principalement à la forte baisse des nouveaux cas confirmés.
+  De leur coté, les données épidémiologiques en #Ehpad, fournies depuis le 12 avril, indiquent un nombre de nouveaux cas très fluctuant de jour en jour. Reste que, depuis une semaine, ce nombre tend à revenir à un niveau moyen.
+  Demain et les jours suivants, en moyenne, nous prévoyons que le nombre de #décès du Covid19 en Ehpad sera, encore, de 500 cas par jour environ. C'est une meilleure moyenne que les semaines précédentes.
