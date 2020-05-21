@@ -1,0 +1,27 @@
+--- 
+data: |
+  Retours à domicile : +1405 →
+  Cas confirmés : +1773 ↑
+  Cas confirmés en EHPAD : +1040 ↓
+  Cas possibles en EHPAD : -128 →
+  Hospitalisations : -561 ↓
+  En réanimation : -183 ↓
+  Décès à l’hôpital : +305 →
+  Décès en EHPAD ou EMS : +84 ↓
+expert: 
+  link: "#"
+  name: "Daniel Pont"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - Elena Blum
+  - abdoulsn
+  - jdesboeufs
+text: |
+  Ce vendredi 24 avril, deux grandes tendances se confirment au niveau national :
+    • Une diminution progressive des #hospitalisations sur les 10 derniers jours
+    • Une nette réduction du nombre de patients en #réanimation sur la dernière quinzaine."
+  Après un pic à 32292 le 14 avril, le nombre d’hospitalisation est aujourd’hui de 28658 soit une diminution de 11% en 10 jours.
+  Quant aux réanimations, après un nombre maximum de 7148 atteint le 8 avril, elles sont revenues à 4870, soit une réduction de 32 % en 16 jours.
+  Malgré une certaine volatilité quotidienne (les baisses d’un jour à l’autre sont en « dents-de-scie ») et des disparités régionales (la décrue des réanimations est plus importante sur la moitié ouest), ces données témoignent d’une amélioration sensible de la capacité de la prise en charge des cas les plus graves.
+  En temps normal la France dispose de 5000 lits de réanimation et nous sommes passés en dessous de ce cap.
