@@ -1,9 +1,14 @@
 {
+  "projectName": "edition-du-soir-report",
+  "projectOwner": "guillaumefe",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "commit": true,
+  "commitConvention": "none",
   "contributors": [
     {
       "login": "mtaieb",
@@ -11,61 +16,9 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/3834341?v=4",
       "profile": "https://github.com/mtaieb",
       "contributions": [
-        "data",
-        "content",
-        "ideas",
-        "eventOrganizing",
-        "projectManagement"
-      ]
-    },
-    {
-      "login": "sandrineh",
-      "name": "Sandrine",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/15267900?v=4",
-      "profile": "https://sandrineh.github.io/",
-      "contributions": [
-        "eventOrganizing",
-        "projectManagement",
-        "content"
-      ]
-    },
-    {
-      "login": "abdoulsn",
-      "name": "Abdoulaye",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/33933023?v=4",
-      "profile": "https://github.com/abdoulsn",
-      "contributions": [
-        "content",
-        "tool",
-        "test",
-        "projectManagement"
-      ]
-    },
-    {
-      "login": "melissa-salucci",
-      "name": "melissa-salucci",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/60431041?v=4",
-      "profile": "https://melissasalucci.myportfolio.com",
-      "contributions": [
-        "eventOrganizing",
-        "ideas"
-      ]
-    },
-    {
-      "login": "Mouvoh",
-      "name": "Mouvoh",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/62729599?v=4",
-      "profile": "https://github.com/Mouvoh",
-      "contributions": [
-        "test",
-        "content"
+        "data"
       ]
     }
   ],
-  "contributorsPerLine": 7,
-  "projectName": "edition-du-soir-report",
-  "projectOwner": "guillaumefe",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true
+  "contributorsPerLine": 7
 }
