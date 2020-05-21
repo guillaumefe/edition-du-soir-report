@@ -1,0 +1,26 @@
+--- 
+data: |
+  Retours à domicile : +1101 ↓
+  Cas confirmés : +1537 ↓
+  Cas confirmés en EHPAD : +1246 ↑
+  Cas possibles en EHPAD : +123 →
+  Hospitalisations : -436 ↓
+  En réanimation : -145 ↓
+  Décès à l’hôpital : +198 ↓
+  Décès en EHPAD ou EMS : +171 ↑
+expert: 
+  link: "https://www.linkedin.com/in/yann-romestant/"
+  name: "Yann Romestant"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+text: |
+  Bonne nouvelle, les efforts collectifs continuent de se faire ressentir:
+    - La décroissance du nombre de nouveaux cas quotidiens persiste (13% par rapport à hier et 15% par rapport aux nombre de cas moyens journaliers sur les 9 derniers jours).
+    - Celle du nombre de #décès également (5% et 34% respectivement).
+  En outre, depuis le 08 avril s’ajoute la baisse continue du nombre de cas en #réanimation, qui soulage les services hospitaliers.
+  Il faut toutefois rester vigilant, en effet les cas confirmés et la mortalité en Ephad/EMS ne diminuent pas dans les mêmes proportions : seulement 17 % de baisse de la mortalité par rapport à la moyenne, sur les 9 derniers jours.
+  La propagation du virus est donc ralentie mais toujours là. À ce titre, nous devons rester prudent et maintenir les mesures de #confinement. C’est en agissant ensemble que nous réussirons à sauver d’autres milliers de vies.
