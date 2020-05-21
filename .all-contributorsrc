@@ -68,6 +68,15 @@
         "test",
         "content"
       ]
+    },
+    {
+      "login": "Dowser101",
+      "name": "Dowser101",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/62883351?v=4",
+      "profile": "https://github.com/Dowser101",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7
