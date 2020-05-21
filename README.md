@@ -1,6 +1,6 @@
 # Edition-du-soir-report
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
@@ -35,6 +35,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://sandrineh.github.io/"><img src="https://avatars0.githubusercontent.com/u/15267900?v=4" width="100px;" alt=""/><br /><sub><b>Sandrine</b></sub></a><br /><a href="#eventOrganizing-sandrineh" title="Event Organizing">📋</a> <a href="#projectManagement-sandrineh" title="Project Management">📆</a> <a href="#content-sandrineh" title="Content">🖋</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/pulls?q=is%3Apr+reviewed-by%3Asandrineh" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/abdoulsn"><img src="https://avatars2.githubusercontent.com/u/33933023?v=4" width="100px;" alt=""/><br /><sub><b>Abdoulaye</b></sub></a><br /><a href="#content-abdoulsn" title="Content">🖋</a> <a href="#tool-abdoulsn" title="Tools">🔧</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/commits?author=abdoulsn" title="Tests">⚠️</a> <a href="#eventOrganizing-abdoulsn" title="Event Organizing">📋</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/pulls?q=is%3Apr+reviewed-by%3Aabdoulsn" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://melissasalucci.myportfolio.com"><img src="https://avatars3.githubusercontent.com/u/60431041?v=4" width="100px;" alt=""/><br /><sub><b>melissa-salucci</b></sub></a><br /><a href="#projectManagement-melissa-salucci" title="Project Management">📆</a> <a href="#ideas-melissa-salucci" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/pulls?q=is%3Apr+reviewed-by%3Amelissa-salucci" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Mouvoh"><img src="https://avatars3.githubusercontent.com/u/62729599?v=4" width="100px;" alt=""/><br /><sub><b>mouvoh</b></sub></a><br /><a href="https://github.com/guillaumefe/edition-du-soir-report/commits?author=Mouvoh" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
