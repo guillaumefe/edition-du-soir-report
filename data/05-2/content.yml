@@ -1,0 +1,24 @@
+--- 
+data: |
+  Retours à domicile : +350 ↓
+  Cas confirmés : +794
+  Cas total en EHPAD : +736 →
+  Cas confirmés en EHPAD : +480 ↑
+  Hospitalisations : -60 ↓
+  En réanimation : -51 ↓
+  Décès à l’hôpital : +118 ↓
+  Décès en EHPAD ou EMS : +48 ↓
+expert: 
+  link: "https://www.linkedin.com/in/raphael-presberg/"
+  name: "Raphael Presberg"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - guillaumefe
+text: |
+  Une fois de plus, les indicateurs vont dans le bon sens. Le nombre de #décès ces 24 dernières heures s'est fortement réduit depuis le 21 mars dernier. Les courbes de #réanimation et d’hospitalisation continuent de décroitre lentement mais sûrement (- 51 personnes en réanimation et -60 en #hospitalisation par rapport à hier). 
+  Attention néanmoins, il y a toujours plus de nouveaux cas détectés (+794 personnes). En outre, le nombre d’hospitalisations reste élevé. 
+  Focus sur les #Ehpad/EMS: malheureusement, la situation reste inquiétante. Chaque jour apporte davantage de cas confirmés (+480 personnes) et de décès (+48)… La première vague touche à sa fin, mais la pandémie n’est pas encore complètement derrière nous.
