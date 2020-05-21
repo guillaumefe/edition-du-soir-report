@@ -41,7 +41,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http://bruno.adele.im"><img src="https://avatars0.githubusercontent.com/u/2806307?v=4" width="100px;" alt=""/><br /><sub><b>Bruno Adele</b></sub></a><br /><a href="#content-badele" title="Content">🖋</a> <a href="#ideas-badele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/commits?author=badele" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.facebook.com/guillaume.ferron"><img src="https://avatars1.githubusercontent.com/u/12534077?v=4" width="100px;" alt=""/><br /><sub><b>Guillaume Fe</b></sub></a><br /><a href="#eventOrganizing-guillaumefe" title="Event Organizing">📋</a> <a href="#projectManagement-guillaumefe" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://www.facebook.com/guillaume.ferron"><img src="https://avatars1.githubusercontent.com/u/12534077?v=4" width="100px;" alt=""/><br /><sub><b>Guillaume Fe</b></sub></a><br /><a href="#eventOrganizing-guillaumefe" title="Event Organizing">📋</a> <a href="#projectManagement-guillaumefe" title="Project Management">📆</a> <a href="#tool-guillaumefe" title="Tools">🔧</a></td>
   </tr>
 </table>
 
