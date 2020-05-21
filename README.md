@@ -40,7 +40,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/elenablum26"><img src="https://avatars1.githubusercontent.com/u/65129550?v=4" width="100px;" alt=""/><br /><sub><b>elenablum26</b></sub></a><br /><a href="#eventOrganizing-elenablum26" title="Event Organizing">📋</a> <a href="#projectManagement-elenablum26" title="Project Management">📆</a> <a href="https://github.com/guillaumefe/edition-du-soir-report/pulls?q=is%3Apr+reviewed-by%3Aelenablum26" title="Reviewed Pull Requests">👀</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://bruno.adele.im"><img src="https://avatars0.githubusercontent.com/u/2806307?v=4" width="100px;" alt=""/><br /><sub><b>Bruno Adele</b></sub></a><br /><a href="#content-badele" title="Content">🖋</a></td>
+    <td align="center"><a href="http://bruno.adele.im"><img src="https://avatars0.githubusercontent.com/u/2806307?v=4" width="100px;" alt=""/><br /><sub><b>Bruno Adele</b></sub></a><br /><a href="#content-badele" title="Content">🖋</a> <a href="#ideas-badele" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
