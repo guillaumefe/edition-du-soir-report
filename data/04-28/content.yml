@@ -1,0 +1,25 @@
+--- 
+data: |
+  Retours à domicile : +1373 ↑
+  Cas confirmés : +1520 ↓
+  Cas confirmés en EHPAD : +590 →
+  Cas possibles en EHPAD : +1573 ↑
+  Hospitalisations : -571 ↓
+  En réanimation : -221 ↓
+  Décès à l’hôpital : +313 ↑
+  Décès en EHPAD ou EMS : +54 ↓
+expert: 
+  link: "https://www.linkedin.com/in/damien-jacomy-3b749515/"
+  name: "Damien JACOMY"
+  title: Ingénieur logiciel
+team: 
+  - mtaieb
+  - Elena Blum
+  - abdoulsn
+  - jdesboeufs
+  - sandrineh
+  - guillaumefe
+text: |
+  Aujourd'hui, mardi 28 avril, le nombre de #décès continue d'augmenter anormalement sans que l'on sache vraiment pourquoi.
+  En revanche, nous constatons que le nombre d'#hospitalisations et de #réanimations continue progressivement de baisser. Ce qui permet à notre système hospitalier de reprendre son souffle après des semaines sous pression. Ainsi, les soignants peuvent s'occuper des autres patients, un peu délaissés, mais dont les pathologies chroniques comme ambulatoires sont aussi importantes. 
+  On observe par ailleurs que la détection des nouveaux cas est toujours un peu aléatoire, puisqu'après avoir augmenté depuis quelques jours, ils se remettent à baisser. Aussi, le meilleur conseil que nous puisons nous donner : poursuivre nos efforts. Nous voyons la lumière au bout du tunnel.
