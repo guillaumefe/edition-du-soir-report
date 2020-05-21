@@ -1,0 +1,22 @@
+--- 
+data: |
+  Retours à domicile : +755 ↓
+  Hospitalisations : -484 ↓
+  En réanimation : -93 ↓
+  Décès à l’hôpital : +111 ↓
+  Décès en EHPAD ou EMS : +132 ↑
+expert: 
+  link: "https://www.linkedin.com/in/alexandre-payot/"
+  name: Alexandre Payot
+  title: Chercheur en optimisation
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - guillaumefe
+  - mouvoh
+text: |
+  Les données liées à Covid19 sont généralement parsemées de variations journalières importantes et erratiques. Bon nombre proviennent du fonctionnement de nos institutions et surviennent le week-end.
+  En calculant une moyenne hebdomadaire, beaucoup de ces variations disparaissent. Il apparait notamment que la réduction du nombre de cas en #réanimation se poursuit bel et bien, avec un solde quotidien relativement stable (autour de -150 personnes/jour) depuis le 15 avril.
+  Du coté des #décès, leur nombre à hôpital semble se réduire de 5% par jour (pour 100 décès en hôpitaux, 95 sont observés le lendemain). En Ehpad/EMS, 132 décès viennent aujourd’hui contredire l'amélioration constatée jusqu'alors. Dans les jours à venir nous verrons s’il s’agit d’une fluctuation ponctuelle ou d’une recrudescence de la maladie, dans ces établissements qui soignent les membres les plus #vulnérables de la société.
