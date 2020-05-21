@@ -1,0 +1,22 @@
+--- 
+data: |
+  Retours à domicile : +1314 →
+  Cas confirmés : -1417 ↓
+  Hospitalisations : -650 ↓
+  En réanimation : -180 ↓
+  Décès à l’hôpital : +243 ↓
+  Décès en EHPAD ou EMS : +184 ↑
+expert: 
+  link: "https://www.linkedin.com/in/abdoulsn/"
+  name: "Abdoulaye Diallo"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - guillaumefe
+  - sandrineh
+  - jdesboeufs
+text: |
+  Ce 29 avril, la courbe des nouveaux cas #baisse pour la toute première fois après 7 semaines de confinement! Les régions île de France, Grand Est, Auvergne Rhône Alpes et Hauts-de-France représentent à elles-seules 72% du nombre total d#hospitalisationss.
+  La situation reste tragique du coté des #décès (24 087 personnes) bien que la courbe s’adoucisse depuis 3 jours (243 aujourd’hui, contre 367 hier et 437 avant hier).
+  En #EHPAD et EMS, le nombre de morts reste fluctuant. D’une manière générale, on constate moins de décès dans ces établissements que dans les hôpitaux. Par ailleurs le nombre de cas confirmés y reste quasi constant depuis plusieurs jours.
+  En ce qui concerne les #réanimations, la dynamique est aussi favorable (-180 personnes). Idem pour les retours à domiciles (+1373). D’une manière générale, de plus en plus de lits se libèrent et la pression diminue pour les professionnels de santé.
