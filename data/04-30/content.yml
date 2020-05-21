@@ -1,0 +1,25 @@
+--- 
+data: |
+  Retours à domicile : +1248 ↓
+  Cas confirmés : +1139 ↓
+  Cas total en EHPAD : +179 ↓
+  Cas confirmés en EHPAD : +560 ↓
+  Hospitalisations : -551 ↓
+  En réanimation : -188 ↓
+  Décès à l’hôpital : +191 ↓
+  Décès en EHPAD ou EMS : +98 ↓
+expert: 
+  link: "https://www.linkedin.com/in/alexis-tuil-899b3384/"
+  name: "Alexis Tuil"
+  title: Data Scientist
+team: 
+  - mtaieb
+  - sandrineh
+  - guillaumefe
+  - abdoulsn
+  - jdesboeufs
+text: |
+  Tous les chiffres sont en baisse aujourd’hui. En particulier le nombre d#hospitalisationss (-551) et le nombre de cas de #réanimation (-188) deux indicateurs dont la diminution se ressent depuis 20 jours consécutifs.
+  Ces dernières 24 heures, la courbe des #décès s'affaisse à l’hôpital jusqu'à franchir le seuil symboliques des 200. En Ehpad/EMS le nombre de morts descend en dessous de 100.
+  C’est une très bonne nouvelle en vue du dé-confinement qui approche. Toutefois il convient de rester prudent. Nous sommes encore au dessus de 1000 nouveaux cas par jour. 
+  C’est cette #prudence qui amène le gouvernement à proposer un dé-confinement très progressif, pour rester attentif à l’évolution sur la situation au mois de mai.
