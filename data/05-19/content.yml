@@ -1,0 +1,29 @@
+--- 
+data: |
+  Retours à domicile : +835 ↑ (→)*
+  Cas confirmés : +524 ↑ (↓)*
+  Cas total en EHPAD : +289 ↑ (→)*
+  Cas confirmés en EHPAD : -69 ↓ (↓)*
+  Hospitalisations : -547 ↓ (↓)*
+  En réanimation : -104 ↓ (↓)*
+  Décès à l’hôpital : +125 → (↓)*
+  Décès en EHPAD ou EMS : -342 ↓ (↓)*
+  Nouvelles admissions en hospitalisation : +131 ↓ (↑)*
+  Nouvelles admissions en réanimation : +31 ↑ (↑)*
+indications:
+  * : Moyenne sur 7 jours
+expert: 
+  link: "https://www.linkedin.com/in/mouna-jabri-92ab8710a/"
+  name: Mouna Jabri
+  title: Ingénieur Data Scientist
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - guillaumefe
+  - Dowser101
+text: |
+  En mettant en lumière certains indicateurs, le bilan se veut prometteur au 8e jour de dé-confinement. En #Ehpad (ou EMS), le nombre de décès est à la baisse. 
+  En outre, les lits d’hôpitaux se libèrent avec un plus grand nombre de personnes regagnant le domicile et moins d’admissions à l’hôpital. Cependant, les chiffres doivent s’inscrire dans une analyse globale. La tendance des derniers jours du nombre de cas en Ehpad stagne. Aujourd’hui, on en comptabilise 289 de plus. 
+  Par ailleurs, à l'hôpital le nombre d'admis en #réanimation continue d’augmenter. Le nombre de cas confirmés, par rapport à la veille, est lui aussi en hausse mais plus légère. Les efforts doivent continuer pour espérer un bilan global positif.
