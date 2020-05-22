@@ -1,0 +1,36 @@
+--- 
+data: |
+  Global:
+    Retours à domicile: +504 ↓ -*
+    Cas confirmés: +318 ↓ -*
+    Décès: +83 ↓ +*
+  À l'hôpital: 
+    Hospitalisations actuelles: -358 ↑ --*
+    Nouvelles hospitalisations: -161 ↑ -* 
+    Réanimation actuelles: -49 ↑ +*
+    Nouvelles réanimations: -15 ↑ -*
+    Décès: +58 ↓ -*
+  En Ephad/EMS:
+    Cas suspectés: ?
+    Cas confirmés: ?
+    Décès: +25 ↑ --*
+indications:
+  *: Moyenne sur 7 jours
+expert: 
+  link: "https://www.linkedin.com/in/marion-felder/"
+  name: Marion Felder
+  title: Data Analyst
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - Dowser101
+  - mouvoh
+  - guillaumefe
+text: |
+  La tendance de ces derniers jours reste inchangée: les nouvelles admissions et nouveaux cas en #réanimation continuent de baisser.
+  En revanche, au niveau des #Ephad, nous déplorons 25 décès, un chiffre en hausse par rapport à hier.
+  Par ailleurs, depuis le début de l’épidémie, le nombre d#hospitalisationss approche la barre des 100 000 (99 822).
+  Mais attention, 10 jours après le dé-confinement, de nouveaux cas pourraient arriver en masse, annonçant une seconde vague de l'épidémie.
+  Si profiter du beau temps pendant ce week-end de l'Ascension est légitime, il nous faut rester vigilant et continuer d'appliquer les gestes barrières.
