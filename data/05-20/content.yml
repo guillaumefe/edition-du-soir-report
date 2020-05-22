@@ -1,0 +1,32 @@
+--- 
+data: |
+  Retours à domicile : +791 ↓ =* 
+  Cas confirmés : +418 ↓ =*
+  Cas total en EHPAD : +569 ↑ ++*
+  Cas confirmés en EHPAD : +221 ↓ =*
+  Hospitalisations : -527 ↑ =*
+  En réanimation : -100 ↑ =*
+  Décès à l’hôpital : +98 ↓=*
+  Décès en EHPAD ou EMS : +12 ↑ +*
+  Nouvelles admissions en hospitalisation: -74 ↓ --*
+  Nouvelles admissions en réanimation: -26 ↓ -*
+  Total hospitalisation: -627 ↓ =*  
+  Total Décès: +110 → =*
+indications:
+  *: Moyenne sur 7 jours
+expert: 
+  link: "https://www.linkedin.com/in/brunoadele/"
+  name: Bruno Adelé
+  title: DevOps
+team: 
+  - mtaieb
+  - sandrineh
+  - abdoulsn
+  - jdesboeufs
+  - guillaumefe
+  - Dowser101
+text: |
+  Après 9 jours de dé-confinement et à mi-parcours de cette 2ème semaine, la tendance semble encore à la baisse.Hormis les #Ehpad, où l'on constate de légères hausses par rapport à hier, les autres indicateurs sont presque tous au vert. 
+  Ces données semblent à la fois confirmer l'efficacité du confinement et indiquer que les règles de dé-confinement ont été respectées durant la premier semaine.
+  Autre observation, le taux d'occupation de #réanimation rejoint désormais le taux d'occupation de la première semaine de confinement (voir le graphique ci-joint, ainsi que le répertoire https://lnkd.in/dYJx_jw)
+  Reste à espérer qu'avec ce week-end de l'ascension et les départs éventuels, les citoyens ne relâcheront pas leurs efforts.
