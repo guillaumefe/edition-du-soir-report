@@ -358,21 +358,19 @@ for idx, item in df.iterrows():
             stylecolor7j="unknow"
 
 
-        # html += f"""
-        #   <td class="center" data-label="confirmes_nb">{item[f'{column}']}</td>
-        #   <td class="left" data-label="{column}_1j"><span class="{stylecolor1j}">{item[f'trend_diff_{column}_1j']} {eval(f'var_diff_{column}_1j')}</span> ({eval(f'diff_{column}_1j')})</td>
-        #   <td class="left" data-label="{column}_7j"><span class="{stylecolor1j}">{item[f'trend_diff_{column}_7j']} {eval(f'var_diff_{column}_7j')}</span> ({eval(f'diff_{column}_7j')})</td>
-        # """
-
         html += f"""
         <td class="center" data-label="{column}_nb">{item[f'{column}']}</td>
         <td class="left" data-label="{column}_1j"><span class="{stylecolor1j}">{item[f'trend_diff_{column}_1j']} {eval(f'var_diff_1j')}</span> ({eval(f'diff_1j')})</td>
         <td class="left" data-label="{column}_1j"><span class="{stylecolor7j}">{item[f'trend_diff_{column}_7j']} {eval(f'var_diff_7j')}</span> ({eval(f'diff_7j')})</td>
         """
+    html += """
+    </tr>"""
 
-html+="""    </tr>
+html+="""
 </tbody>
-</table>"""
+</table>
+</body>
+</html>"""
 
 
 print(html)
