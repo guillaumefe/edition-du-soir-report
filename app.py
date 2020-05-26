@@ -6,8 +6,8 @@ app = Flask(__name__)
 data = {}
 
 input = {
-    "sum": '/tmp/summary.csv',
-    "trend": '/tmp/trend.csv'
+    "sum": 'data/summary.csv',
+    "trend": 'data/trend.csv'
 }
 
 methods = ['POST', 'GET']

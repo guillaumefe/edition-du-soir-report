@@ -6,6 +6,8 @@ import numpy as np
 import pandas as pd
 from collections import OrderedDict
 
+data_folder = 'data'
+
 # Set pandas options
 pd.set_option('mode.chained_assignment', None)
 pd.set_option('display.max_columns', None)
@@ -136,7 +138,7 @@ for field in fieldscolumn:
 
 # Save to CSV Raw
 df = df[dfcolumns]
-df.to_csv('/tmp/summary.csv',sep=';')
+df.to_csv(data_folder + '/summary.csv',sep=';')
 
 
 ####################
@@ -245,7 +247,7 @@ outcolumns = [
 
 
 df = df[outcolumns]
-df.to_csv('/tmp/trend.csv',sep=';')
+df.to_csv(data_folder + '/trend.csv',sep=';')
 
 ######################
 # Generate HTML pages
