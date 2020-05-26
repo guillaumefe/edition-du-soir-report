@@ -1,0 +1,129 @@
+{
+  "projectName": "edition-du-soir-report",
+  "projectOwner": "guillaumefe",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "mtaieb",
+      "name": "mtaieb",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3834341?v=4",
+      "profile": "https://github.com/mtaieb",
+      "contributions": [
+        "data",
+        "ideas",
+        "eventOrganizing",
+        "projectManagement",
+        "review"
+      ]
+    },
+    {
+      "login": "sandrineh",
+      "name": "Sandrine",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15267900?v=4",
+      "profile": "https://sandrineh.github.io/",
+      "contributions": [
+        "eventOrganizing",
+        "projectManagement",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "abdoulsn",
+      "name": "Abdoulaye",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33933023?v=4",
+      "profile": "https://github.com/abdoulsn",
+      "contributions": [
+        "content",
+        "tool",
+        "test",
+        "eventOrganizing",
+        "review"
+      ]
+    },
+    {
+      "login": "melissa-salucci",
+      "name": "melissa-salucci",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/60431041?v=4",
+      "profile": "https://melissasalucci.myportfolio.com",
+      "contributions": [
+        "projectManagement",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "Mouvoh",
+      "name": "mouvoh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62729599?v=4",
+      "profile": "https://github.com/Mouvoh",
+      "contributions": [
+        "test",
+        "content"
+      ]
+    },
+    {
+      "login": "Dowser101",
+      "name": "Dowser101",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/62883351?v=4",
+      "profile": "https://github.com/Dowser101",
+      "contributions": [
+        "data",
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "elenablum26",
+      "name": "elenablum26",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/65129550?v=4",
+      "profile": "https://github.com/elenablum26",
+      "contributions": [
+        "eventOrganizing",
+        "projectManagement",
+        "review"
+      ]
+    },
+    {
+      "login": "badele",
+      "name": "Bruno Adele",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2806307?v=4",
+      "profile": "http://bruno.adele.im",
+      "contributions": [
+        "content",
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "guillaumefe",
+      "name": "Guillaume Fe",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12534077?v=4",
+      "profile": "https://www.facebook.com/guillaume.ferron",
+      "contributions": [
+        "eventOrganizing",
+        "projectManagement",
+        "tool",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "jdesboeufs",
+      "name": "Jérôme Desboeufs",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1231232?v=4",
+      "profile": "https://github.com/jdesboeufs",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
