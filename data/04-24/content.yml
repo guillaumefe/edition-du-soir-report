@@ -9,7 +9,7 @@ data: |
   Décès à l’hôpital : +305 →
   Décès en EHPAD ou EMS : +84 ↓
 expert: 
-  link: "#"
+  link: "https://github.com/danpon"
   name: "Daniel Pont"
   title: Data Scientist
 team: 
