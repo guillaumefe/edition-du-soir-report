@@ -19,7 +19,6 @@ for type in input:
     with open(input[type]) as document:
         reader = csv.reader(document, delimiter=';')
         field = next(document).split(';')
-        print(field)
         for row in reader:
             dt = datetime.strptime(row[0], '%Y-%m-%d')
             index = dt.strftime('%Y%m%d')
@@ -62,9 +61,20 @@ def map_site():
         for date in sorted(data[type], reverse=True):
             for category in data[type][date]:
                 for method in methods:
-                    output += '/<b>{}/{}/{}</b> {}<br/>'.format(type, date, category, method)
+                    uri ="{}/{}/{}".format(type, date, category)
+                    text ="/{}/{}/{} {}".format(type, date, category, method)
+                    #output += '/<b>{}/{}/{}</b> {}<br/>'.format(type, date, category, method)
+                    if method == 'GET':
+                        output += '<b><a href="'+uri+'">'+text+'</a> {}</b><br/>'
+                    else:
+                        output += '<b>'+text+' {}</b><br/>'
                     for subcat in data[type][date][category]:
-                        output += '/<b>{}/{}/{}/{}</b> {}<br/>'.format(type, date, category, subcat, method)
+                        uri ="{}/{}/{}/{}".format(type, date, category, subcat)
+                        text ="/{}/{}/{}/{} {}".format(type, date, category, subcat, method)
+                        if method == 'GET':
+                            output += '<a href="'+uri+'">'+text+'</a> {}<br/>'
+                        else:
+                            output += text+' {}<br/>'
     return output
 
 @app.route('/<type>', methods=methods)
