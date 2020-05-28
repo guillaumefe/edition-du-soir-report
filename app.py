@@ -3,6 +3,7 @@ from datetime import datetime
 from flask import Flask, render_template
 
 app = Flask(__name__)
+app.url_map.strict_slashes = False
 data = {}
 
 input = {
@@ -18,6 +19,7 @@ for type in input:
     with open(input[type]) as document:
         reader = csv.reader(document, delimiter=';')
         field = next(document).split(';')
+        print(field)
         for row in reader:
             dt = datetime.strptime(row[0], '%Y-%m-%d')
             index = dt.strftime('%Y%m%d')
@@ -34,6 +36,13 @@ for type in input:
                 # bloc.append({field[key]:(value or None)})
             data[type][index] = category
 
+@app.before_request
+def clear_trailing():
+    from flask import redirect, request
+
+    rp = request.path
+    if rp != '/' and rp.endswith('/'):
+        return redirect(rp[:-1])
 
 # Catalog
 @app.route('/options', methods=['GET'])
